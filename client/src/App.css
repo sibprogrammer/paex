@@ -1,0 +1,27 @@
+.App {}
+
+.App-header {
+  text-align: center;
+  background-color: #222;
+  height: 40px;
+  padding: 20px;
+  color: white;
+}
+
+.App-form {
+  padding: 20px;
+}
+
+.App-request {
+  height: 160px;
+  font-family: monospace;
+}
+
+.App-response {
+  background-color: #eee;
+  border-radius: 4px;
+  font-size: small;
+  padding: 10px;
+  line-height: 1.3;
+}
+
